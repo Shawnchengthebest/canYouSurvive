@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 765302f0f87d442caaf4faa8153a45ae
+  productGUID: 7c0a56ed74fd3469e87677400ded3dbd
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -666,10 +666,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: a3ef44eb-27ad-4de9-b2ec-4d8b694be29d
+  cloudProjectId: 0ebd1050-4bf1-4609-9cad-3c7b92293f68
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: canYouSurvive
+  projectName: canYouSurvive 2023-11-01_20-54-16
   organizationId: shawnthebestt2bs
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
