@@ -161,5 +161,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fce1d705cf7b7465196359faf374249a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Player: {fileID: 8124717268388006127, guid: a5707d99f5b154d2bb65d661fdfc48b2, type: 3}
   health: 100
   deathEffect: {fileID: 3797006706714090109, guid: e3e228273689b48e78eb6bb57e5176ec, type: 3}
+  speed: 2
+  flip: 0
